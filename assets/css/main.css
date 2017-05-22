@@ -21,7 +21,7 @@
 			padding:7px 7px;
 			width:800px;
 			word-break:keep-all;
-			background: url(bg.png);
+			background: url('../img/bg.png');
 			border-radius: 20px;
 			border: 5px solid black;
 		}
@@ -31,7 +31,7 @@
 			padding:7px 7px;
 			width:800px;
 			word-break:keep-all;
-			background: url("bg.png") no-repeat;
+			background: url("../img/bg.png") no-repeat;
 			background-size: 820px 145px;
 			background-color: black;
 			border-radius: 20px;
@@ -44,7 +44,7 @@
 			padding:5px 5px;
 			width:785px;
 			word-break:keep-all;
-			background: url(foot.png);
+			background: url('../img/foot.png');
 			border-radius: 20px;
 			border: 5px solid black;
 			box-shadow: 10px 10px 10px #888888;
