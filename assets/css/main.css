@@ -73,13 +73,6 @@
 			color: black;
 			text-shadow: 4px 4px 4px gray;
 		}
-		html { 
-		  background: url(http://i.imgur.com/Kh7hQ7M.jpg) no-repeat center center fixed; 
-		  -webkit-background-size: cover;
-		  -moz-background-size: cover;
-		  -o-background-size: cover;
-		  background-size: cover;
-		}
 		div.nav a:link {
 			color: #363636;
 			text-decoration: underline;
