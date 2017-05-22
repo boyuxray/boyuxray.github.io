@@ -9,14 +9,29 @@
 		border: 5px solid black;
 		box-shadow: 10px 10px 10px #888888;
 }
-.boxf {
-			text-align:left;
-			font-size:10px;
-			padding:5px 5px;
-			width:785px;
-			word-break:keep-all;
-			background: url(foot.png);
-			border-radius: 20px;
-			border: 5px solid black;
-			box-shadow: 10px 10px 10px #888888;
+#nav ul {
+			list-style: none;
+			width: 800px;
+			margin: 0 auto;
+			padding: 0; }
+#nav li {
+			float: left; }
+#nav li a {
+			display: block;
+			padding: 7px 7px;
+			text-decoration: none;
+			font-weight: bold;
+			color: #069;
 		}
+		#nav li a:hover {
+			color: #c00;
+			background-color: rgba(255,255,255,0.9);; 
+}
+p {
+			font-family: "courier";
+			word-break: keep-all;
+			color: black;
+			text-decoration: bold; 
+			font-size:15.5px;
+			text-shadow: 3px 3px 3px gray;
+}
