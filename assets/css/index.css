@@ -31,7 +31,7 @@
 			padding:7px 7px;
 			width:800px;
 			word-break:keep-all;
-			background: url(../img/bg.png);
+			background: url('../img/bg.png');
 			border-radius: 20px;
 			border: 5px solid black;
 			box-shadow: 10px 10px 10px #888888;
@@ -42,7 +42,7 @@
 			padding:5px 5px;
 			width:785px;
 			word-break:keep-all;
-			background: url(../img/foot.png);
+			background: url('../img/foot.png');
 			border-radius: 20px;
 			border: 5px solid black;
 			box-shadow: 10px 10px 10px #888888;
@@ -70,7 +70,7 @@
 			text-shadow: 4px 4px 4px white;
 		}
 		html { 
-		  background: url(../img/repeat.png) no-repeat center center fixed; 
+		  background: url('../img/repeat.png') no-repeat center center fixed; 
 		  -webkit-background-size: cover;
 		  -moz-background-size: cover;
 		  -o-background-size: cover;
