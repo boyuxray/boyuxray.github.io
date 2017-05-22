@@ -49,3 +49,10 @@ p {
 			text-shadow: 3px 3px 3px gray;
 }
 div.box1 img {float:center;}
+html { 
+		  background: url(../img/repeat.png) no-repeat center center fixed; 
+		  -webkit-background-size: cover;
+		  -moz-background-size: cover;
+		  -o-background-size: cover;
+		  background-size: cover;
+		}
