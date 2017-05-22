@@ -9,6 +9,19 @@
 		border: 5px solid black;
 		box-shadow: 10px 10px 10px #888888;
 }
+div.nav a:link {
+			color: #363636;
+			text-decoration: underline;
+		}
+		div.nav a:visited {
+			text-decoration: underline;
+			color: #363636;
+		}
+		div.nav A:hover {
+			COLOR: #3366FF;
+			text-decoration:underline;
+			background: #999999;
+		}
 #nav ul {
 			list-style: none;
 			width: 800px;
